@@ -1,6 +1,7 @@
 <h1>Rocketseat Nlw 7° edição </h1>
 
-   <p>Opa e aí dev, tranquilo ? esse e meu repositório do projeto feito na sétima edição do NLW feito pela Rocketseat.</p>
+<h2>Proposta</h2>
+   <p>Opa e aí dev, tranquilo ? esse e meu repositório do projeto feito na sétima edição do NLW feito pela Rocketseat, quem consiste em fazer um crachá virtual aonde foto, nome e a descrição são fornecidos via APi do github que irá pegar tudo pelo seu perfil.</p>
       
 
 <h2> Links 📎</h2>
